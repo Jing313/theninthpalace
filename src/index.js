@@ -18,7 +18,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     
-    <Router basename={basename}>
+    <Router basename="/theninthpalace">
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
