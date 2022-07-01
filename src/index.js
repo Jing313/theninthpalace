@@ -12,7 +12,7 @@ import Roadmap from "./pages/roadmap";
 // Netlify
 // const basename = document.querySelector('base')?.getAttribute('href') ?? '/';
 // GitHub
-const basename = process.env.PUBLIC_URL;
+const basename = '/theninthpalace';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
