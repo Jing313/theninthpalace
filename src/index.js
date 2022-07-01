@@ -4,7 +4,7 @@ import './style/style.css?ver=1.1';
 import './style/plugins.css';
 // import '../public/style/style.css?ver=1.1';
 // import '../public/style/plugins.css';
-import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
+import {BrowserRouter as Router, Routes, Route, HashRouter } from 'react-router-dom';
 import Layout from "./pages/layout";
 import Home from "./pages/home";
 import About from "./pages/about";
@@ -20,8 +20,9 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     
-    <Router basename="/theninthpalace">
-      <Routes>
+    {/* <Router basename="/theninthpalace"> </Router> */}
+    <HashRouter>
+    <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
           <Route path="/about" element={<About />} />
@@ -29,7 +30,9 @@ root.render(
           <Route path="/roadmap" element={<Roadmap />} />
         </Route>
       </Routes>
-    </Router>
+    </HashRouter>
+      
+   
   </React.StrictMode>
   
 );
