@@ -23,17 +23,20 @@ function HomeRoadmap() {
                   <div class="t_item">
                     <div class="t_item_img">
                       <div class="neoh_fn_gallery_1_2">
-                        <div class="gallery_in">
-                          <div class="item row2">
+                      <div class="img_item">
+						<img src="img/landing/roadmap1a.jpg" alt=""/>
+					</div>
+                        {/* <div class="gallery_in">                        
+                           <div class="item row2">
                             <img src="img/landing/roadmap1a.jpg" alt="" />
+                          </div> 
+                          <div class="item">
+                            <img src="img/thumbs/02.png" alt="" />
                           </div>
                           <div class="item">
-                            <img src="img/landing/roadmap1b.svg" alt="" />
+                            <img src="img/thumbs/02.png" alt="" />
                           </div>
-                          <div class="item">
-                            <img src="img/landing/roadmap1c.jpg" alt="" />
-                          </div>
-                        </div>
+                        </div> */}
                       </div>
                     </div>
                     <div class="t_item_info">
@@ -49,17 +52,20 @@ function HomeRoadmap() {
                   <div class="t_item">
                     <div class="t_item_img">
                       <div class="neoh_fn_gallery_1_2">
-                        <div class="gallery_in">
+                      <div class="img_item">
+						<img src="img/landing/roadmap2a.jpg" alt=""/>
+					</div>
+                        {/* <div class="gallery_in">
                           <div class="item row2">
                             <img src="img/landing/roadmap2a.jpg" alt="" />
                           </div>
                           <div class="item">
-                            <img src="img/landing/roadmap2b.jpg" alt="" />
+                            <img src="img/thumbs/02.png" alt="" />
                           </div>
                           <div class="item">
-                            <img src="img/landing/roadmap2c.jpg" alt="" />
+                            <img src="img/thumbs/02.png" alt="" />
                           </div>
-                        </div>
+                        </div> */}
                       </div>
                     </div>
                     <div class="t_item_info">
@@ -80,10 +86,10 @@ function HomeRoadmap() {
                             <img src="img/landing/roadmap3a.png" alt="" />
                           </div>
                           <div class="item">
-                            <img src="img/landing/roadmap3b.jpg" alt="" />
+                            <img src="img/thumbs/02.png" alt="" />
                           </div>
                           <div class="item">
-                            <img src="img/landing/comingsoon.jpg" alt="" />
+                            <img src="img/thumbs/02.png" alt="" />
                           </div>
                         </div>
                       </div>
@@ -105,12 +111,12 @@ function HomeRoadmap() {
                           <div class="item row2">
                             <img src="img/landing/comingsoon.jpg" alt="" />
                           </div>
-                          <div class="item">
-                            <img src="img/landing/comingsoon.jpg" alt="" />
+                           <div class="item">
+                            <img src="img/thumbs/02.png" alt="" />
                           </div>
                           <div class="item">
-                            <img src="img/landing/comingsoon.jpg" alt="" />
-                          </div>
+                            <img src="img/thumbs/02.png" alt="" />
+                          </div> 
                         </div>
                       </div>
                     </div>
@@ -131,12 +137,12 @@ function HomeRoadmap() {
                           <div class="item row2">
                             <img src="img/landing/comingsoon.jpg" alt="" />
                           </div>
-                          <div class="item">
-                            <img src="img/landing/comingsoon.jpg" alt="" />
+                           <div class="item">
+                            <img src="img/thumbs/02.png" alt="" />
                           </div>
                           <div class="item">
-                            <img src="img/landing/comingsoon.jpg" alt="" />
-                          </div>
+                            <img src="img/thumbs/02.png" alt="" />
+                          </div> 
                         </div>
                       </div>
                     </div>

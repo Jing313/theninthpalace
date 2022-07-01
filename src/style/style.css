@@ -1039,7 +1039,8 @@ a.full_link{
 /*	padding: 0 var(--gap);*/
 	
 	display: grid;
-	grid-template-columns: 2.1fr 1fr;
+	/* grid-template-columns: 2.1fr 1fr; */
+	grid-template-columns: 2.1fr 0.1fr;
 	grid-column-gap: var(--gap);
    	grid-row-gap: var(--gap);
 }

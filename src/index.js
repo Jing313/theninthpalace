@@ -9,7 +9,10 @@ import About from "./pages/about";
 import Contact from "./pages/contact";
 import Roadmap from "./pages/roadmap";
 
-const basename = document.querySelector('base')?.getAttribute('href') ?? '/';
+// Netlify
+// const basename = document.querySelector('base')?.getAttribute('href') ?? '/';
+// GitHub
+const basename = process.env.PUBLIC_URL;
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
