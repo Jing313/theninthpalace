@@ -19,7 +19,7 @@ function UpdateSection() {
 					<ul>
 						<li>
 							<div class="item">
-								<img src="img/landing/Twitter.png" alt="" class="moving_img"/>
+								<img src="img/landing/twitter.png" alt="" class="moving_img"/>
 								<p class="fn_date">
 									<span>Twitter</span>
 								</p>

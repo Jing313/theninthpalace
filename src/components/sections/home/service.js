@@ -1,14 +1,12 @@
 import React from "react";
+import Dividers from "../../divider";
 
 function HomeService() {
     return (
     <>
     <section id="services">
 			
-			{/* <!-- Dividers --> */}
-			<img src="svg/divider.svg" alt="" class="fn__svg fn__divider top_divider"/>
-			<img src="svg/divider.svg" alt="" class="fn__svg fn__divider bottom_divider"/>
-			{/* <!-- !Dividers --> */}
+			<Dividers />
 			
 			
 			<div class="container">
