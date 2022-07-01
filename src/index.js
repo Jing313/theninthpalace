@@ -2,6 +2,8 @@ import React from 'react';
 import ReactDOM from "react-dom/client";
 import './style/style.css?ver=1.1';
 import './style/plugins.css';
+// import '../public/style/style.css?ver=1.1';
+// import '../public/style/plugins.css';
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 import Layout from "./pages/layout";
 import Home from "./pages/home";
