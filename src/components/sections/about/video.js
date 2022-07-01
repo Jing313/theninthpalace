@@ -10,7 +10,7 @@ function Video() {
         {/* <!-- Video Shortcode --> */}
         <div class="neoh_fn_video">
           <div class="bg_overlay">
-            <div class="bg_image" data-bg-img="img/hero/webBg.jpg"></div>
+            <div class="bg_image" data-bg-img="img/landing/LandingBg.jpg"></div>
             <div class="bg_color"></div>
           </div>
           <div class="v_content">
