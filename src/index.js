@@ -31,13 +31,13 @@ root.render(
         </Route>
       </Routes>
     </HashRouter> */}
-      <Router>
-    <Routes>
-        <Route path="/theninthpalace" element={<Layout />}>
-          <Route path="/theninthpalace" exact component={Home} />
-          <Route path="/theninthpalace/about" exact component={About} />
-          <Route path="/theninthpalace/contact" exact component={Contact} />
-          <Route path="theninthpalace/roadmap" exact component={Roadmap} />
+    <Router basemname={`/${process.env.PUBLIC_URL}`}>
+      <Routes>
+        <Route path="/" element={<Layout />}>
+          <Route index element={<Home />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/contact" element={<Contact />} />
+          <Route path="/roadmap" element={<Roadmap />} />
         </Route>
       </Routes>
     </Router>
