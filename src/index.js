@@ -21,17 +21,7 @@ root.render(
   <React.StrictMode>
     
     {/* <Router basename="/theninthpalace"> </Router> */}
-    {/* <HashRouter>
-    <Routes>
-        <Route path="/" element={<Layout />}>
-          <Route index element={<Home />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/contact" element={<Contact />} />
-          <Route path="/roadmap" element={<Roadmap />} />
-        </Route>
-      </Routes>
-    </HashRouter> */}
-    <Router basemname={`/${process.env.PUBLIC_URL}`}>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
@@ -40,7 +30,17 @@ root.render(
           <Route path="/roadmap" element={<Roadmap />} />
         </Route>
       </Routes>
-    </Router>
+    </HashRouter>
+    {/* <Router basemname={`/${process.env.PUBLIC_URL}`}>
+      <Routes>
+        <Route path="/" element={<Layout />}>
+          <Route index element={<Home />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/contact" element={<Contact />} />
+          <Route path="/roadmap" element={<Roadmap />} />
+        </Route>
+      </Routes>
+    </Router> */}
    
   </React.StrictMode>
   
