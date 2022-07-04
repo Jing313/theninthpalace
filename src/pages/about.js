@@ -48,11 +48,11 @@ function About() {
           {/* <!-- !Information Section --> */}
 
           {/* <!-- Video Section --> */}
-          <Video />
+          {/* <Video /> */}
           {/* <!-- !Video Section --> */}
 
           {/* <!-- Team Section --> */}
-          <Teams />
+          {/* <Teams /> */}
           {/* <!-- !Team Section --> */}
         </div>
         {/* <!-- !About Page --> */}
