@@ -78,12 +78,12 @@ function NormalContent() {
                           <div class="item row2">
                             <img src="img/landing/roadmap1a.jpg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace " />
                           </div>
-                          <div class="item">
+                          {/* <div class="item">
                             <img src="img/landing/roadmap1b.png" alt="" />
                           </div>
                           <div class="item">
                             <img src="img/landing/roadmap1c.jpg" alt="" />
-                          </div>
+                          </div> */}
                         </div>
                       </div>
                     </div>
@@ -126,12 +126,12 @@ function NormalContent() {
                           <div class="item row2">
                             <img src="img/landing/roadmap2a.jpg" alt="The Ninth Palace Game Icon " title="The Ninth Palace Game " />
                           </div>
-                          <div class="item">
+                          {/* <div class="item">
                             <img src="img/landing/roadmap2b.jpg" alt="" />
                           </div>
                           <div class="item">
                             <img src="img/landing/roadmap2c.jpg" alt="" />
-                          </div>
+                          </div> */}
                         </div>
                       </div>
                     </div>
@@ -172,12 +172,12 @@ function NormalContent() {
                           <div class="item row2">
                             <img src="img/landing/roadmap3a.png" alt="The Ninth Palace P2E Icon " title="The Ninth Palace Play to Earn " />
                           </div>
-                          <div class="item">
+                          {/* <div class="item">
                             <img src="img/landing/roadmap3b.jpg" alt="" />
                           </div>
                           <div class="item">
                             <img src="img/landing/comingsoon.jpg" alt="" />
-                          </div>
+                          </div> */}
                         </div>
                       </div>
                     </div>
@@ -222,12 +222,12 @@ function NormalContent() {
                           <div class="item row2">
                             <img src="img/landing/comingsoon.jpg" alt="The Ninth Palace Game Icon " title="The Ninth Palace Game " />
                           </div>
-                          <div class="item">
+                          {/* <div class="item">
                             <img src="img/landing/comingsoon.jpg" alt="" />
                           </div>
                           <div class="item">
                             <img src="img/landing/comingsoon.jpg" alt="" />
-                          </div>
+                          </div> */}
                         </div>
                       </div>
                     </div>
@@ -259,12 +259,12 @@ function NormalContent() {
                           <div class="item row2">
                             <img src="img/landing/comingsoon.jpg" alt="The Ninth Palace P2E Icon " title="The Ninth Palace Play to Earn " />
                           </div>
-                          <div class="item">
+                          {/* <div class="item">
                             <img src="img/landing/comingsoon.jpg" alt="" />
                           </div>
                           <div class="item">
                             <img src="img/landing/comingsoon.jpg" alt="" />
-                          </div>
+                          </div> */}
                         </div>
                       </div>
                     </div>
