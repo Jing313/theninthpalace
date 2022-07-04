@@ -79,7 +79,7 @@ function HomeService() {
 									The future of the project is ambitious.
 									<br /><br />
 									&#8226;
-									Our roadmap encompasses the next 18 months and the v2 roadmap is already being plotted for time.
+									Our Securus Protocol encompasses the next 18 months and the v2 Securus Protocol is already being plotted for time.
 									<br /><br />
 									&#8226;
 									We intend to build a gaming franchise with The Ninth Palace.
