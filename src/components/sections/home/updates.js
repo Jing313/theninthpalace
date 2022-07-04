@@ -19,7 +19,7 @@ function UpdateSection() {
 					<ul>
 						<li>
 							<div class="item">
-								<img src="img/landing/twitter.png" alt="" class="moving_img"/>
+								{/* <img src="img/landing/twitter.png" alt="" class="moving_img"/> */}
 								<p class="fn_date">
 									<span>Twitter</span>
 								</p>
@@ -52,7 +52,7 @@ function UpdateSection() {
 						</li>
 						<li>
 							<div class="item">
-								<img src="img/landing/medium.png" alt="" class="moving_img"/>
+								{/* <img src="img/landing/medium.png" alt="" class="moving_img"/> */}
 								<p class="fn_date">
 									<span>Medium</span>
 								</p>
@@ -66,7 +66,7 @@ function UpdateSection() {
 						</li>
 						<li>
 							<div class="item">
-								<img src="img/landing/substack.png" alt="" class="moving_img"/>
+								{/* <img src="img/landing/substack.png" alt="" class="moving_img"/> */}
 								
 								<p class="fn_date">
 									<span>SubStack</span>

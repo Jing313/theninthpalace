@@ -21,7 +21,7 @@ function RoadmapVideo() {
               class="popup-youtube"
               href="https://www.youtube.com/watch?v=7e90gBu4pas"
             >
-              <img src="img/svg/play.svg" alt="" class="fn__svg" />
+              <img src="img/svg/play.svg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace " class="fn__svg" />
             </a>
           </div>
         </div>

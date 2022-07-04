@@ -8,7 +8,7 @@ function GuaranteeList() {
                   <li>
                     <div class="item">
                       <span class="line"></span>
-                      <img src="img/svg/management.svg" alt="" class="fn__svg" />
+                      <img src="img/svg/management.svg" alt="The Ninth Palace NFT Icon" title="The Ninth Palace " class="fn__svg" />
                       <h3 class="fn_title">Narrative</h3>
                       <p class="fn_desc fn_animated_text">
                         The storyline for The Ninth Palace, and the subset for the mobile game, are well thought out and unique. 
@@ -21,7 +21,7 @@ function GuaranteeList() {
                   <li>
                     <div class="item">
                       <span class="line"></span>
-                      <img src="img/svg/search-engine.svg" alt="" class="fn__svg" />
+                      <img src="img/svg/search-engine.svg" alt="The Ninth Palace Game Icon" title="The Ninth Palace Game " class="fn__svg" />
                       <h3 class="fn_title">Technology</h3>
                       <p class="fn_desc fn_animated_text">
                       We are releasing the project on the Ethereum Blockchain. It was not an easy decision. 
@@ -34,7 +34,7 @@ function GuaranteeList() {
                   <li>
                     <div class="item">
                       <span class="line"></span>
-                      <img src="img/svg/padlock.svg" alt="" class="fn__svg" />
+                      <img src="img/svg/padlock.svg" alt="The Ninth Palace P2E Icon " title="The Ninth Palace Play to Earn " class="fn__svg" />
                       <h3 class="fn_title">Sustainability</h3>
                       <p class="fn_desc fn_animated_text">
                         The number one question we answer at the top of every storyboard is: 

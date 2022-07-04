@@ -29,7 +29,7 @@ const MediumBlog = () => {
             
               <div key={article.guid}>
                 <div class="item">
-                    <img width="100%" src={article.thumbnail} alt="img" />
+                    <img width="100%" src={article.thumbnail}  alt="The Ninth Palace P2E Icon " title="The Ninth Palace Play to Earn " />
                 </div>
                 <br />
                 <h3 class="fn_title"><a href={article.link}>{article.title}</a></h3>

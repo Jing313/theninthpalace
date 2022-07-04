@@ -26,12 +26,25 @@ function HomeService() {
 								<div class="item_num"><span>01</span></div>
 								<div class="item_content">
 									<h3 class="fn_title">E4, E5</h3>
-									<p class="fn_desc fn_animated_text">
-									The Inception Collection mint is followed by the launch of The Resistance Economy and Auxiliary Airdrop.
-									The PC and Mobile games will both be launched alongside our ConnectONE backend, meant to provide frictionless onboarding for non-crypto gamers, shortly after the Auxiliary Airdrop.
-									Throughout this time we will be hiring enthusiastically, scaling our servers and backend systems to manage MMO functionality, and developing the Asset Marketplace.
-									The "Moonshot” for the project is to become an incubator for other Web3 games with ambitious gameplay goals.
-									</p>
+										<p class="fn_desc fn_animated_text">
+											&#8226; 
+											The Inception Collection mint is followed by the launch of The Resistance Economy and Auxiliary Airdrop.
+										</p>
+										<br />
+										<p class="fn_desc fn_animated_text">
+											&#8226; 
+											The PC and Mobile games will both be launched alongside our ConnectONE backend, meant to provide frictionless onboarding for non-crypto gamers, shortly after the Auxiliary Airdrop.
+										</p>
+										<br />
+										<p class="fn_desc fn_animated_text">
+											&#8226; 
+											Throughout this time we will be hiring enthusiastically, scaling our servers and backend systems to manage MMO functionality, and developing the Asset Marketplace.
+										</p>
+										<br />
+										<p class="fn_desc fn_animated_text">
+											&#8226; 
+											The "Moonshot” for the project is to become an incubator for other Web3 games with ambitious gameplay goals.
+										</p>
 								</div>
 							</div>
 						</li>
@@ -41,10 +54,27 @@ function HomeService() {
 								<div class="item_content">
 									<h3 class="fn_title">BC4, NC6</h3>
 									<p class="fn_desc fn_animated_text">
+									&#8226;
 									Quality and sustainability are the ideals driving the project.
+									</p>
+									<br />
+									<p class="fn_desc fn_animated_text">
+									&#8226;
 									The NFTs are hand-drawn with unimaginable detail; certain NFTs hold hidden messages.
+									</p>
+									<br />
+									<p class="fn_desc fn_animated_text">
+									&#8226;
 									The game mechanics and progressions are not only designed for excellent gameplay but are unique to specific metadata.
+									</p>
+									<br />
+									<p class="fn_desc fn_animated_text">
+									&#8226;
 									The game economy was constructed to be sustainable but exciting, complex, and most importantly scalable.
+									</p>
+									<br />
+									<p class="fn_desc fn_animated_text">
+									&#8226;
 									The narrative of The Ninth Palace guides the PC game; the mobile game's narrative is a sub-set of The Ninth Palace storyline but a bit more romantic.
 									</p>
 								</div>
@@ -56,10 +86,27 @@ function HomeService() {
 								<div class="item_content">
 									<h3 class="fn_title">QH5, NF6</h3>
 									<p class="fn_desc fn_animated_text">
+									&#8226;
 									The future of the project is ambitious.
+									</p>
+									<br />
+									<p class="fn_desc fn_animated_text">
+									&#8226;
 									Our roadmap encompasses the next 18 months and the v2 roadmap is already being plotted for time.
+									</p>
+									<br />
+									<p class="fn_desc fn_animated_text">
+									&#8226;
 									We intend to build a gaming franchise with The Ninth Palace.
+									</p>
+									<br />
+									<p class="fn_desc fn_animated_text">
+									&#8226;
 									We want to grow our core team, our industry network, and our community to make the incubator that much more effective.
+									</p>
+									<br />
+									<p class="fn_desc fn_animated_text">
+									&#8226;
 									Most importantly we want to be the bridge into Web3 for non-crypto gamers.
 									</p>
 								</div>
@@ -71,10 +118,27 @@ function HomeService() {
 								<div class="item_content">
 									<h3 class="fn_title">QxF7#</h3>
 									<p class="fn_desc fn_animated_text">
+									&#8226;
 									We started this project tracking expenses, investments, and work hours. We’re a company.
+									</p>
+									<br />
+									<p class="fn_desc fn_animated_text">
+									&#8226;
 									Our accounting principles actually work with Web3.
+									</p>
+									<br />
+									<p class="fn_desc fn_animated_text">
+									&#8226;
 									We've applied for legal registration in Singapore, and are awaiting approval for a crypto-bank account.
+									</p>
+									<br />
+									<p class="fn_desc fn_animated_text">
+									&#8226;
 									We've worked with legal advisors from the beginning to ensure our game economy was compliant across jurisdictions, and any future TGE would satisfy the Howey Test requirements.
+									</p>
+									<br />
+									<p class="fn_desc fn_animated_text">
+									&#8226;
 									Our secret to sustainability actually lies in our approach to running a start-up company.
 									</p>
 								</div>

@@ -22,25 +22,25 @@ function Investors() {
 					<ul>
 						<li>
 							<div class="item">
-								<img src="img/landing/invs-FlameStore.png" alt=""/>
+								<img src="img/landing/invs-FlameStore.png" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/>
 								<a href="#" class="full_link"></a>
 							</div>
 						</li>
 						<li>
 							<div class="item">
-								<img src="img/landing/invs-JessicaWildChild.png" alt=""/>
+								<img src="img/landing/invs-JessicaWildChild.png" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/>
 								<a href="#" class="full_link"></a>
 							</div>
 						</li>
 						<li>
 							<div class="item">
-								<img src="img/landing/invs-Gino.png" alt=""/>
+								<img src="img/landing/invs-Gino.png" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/>
 								<a href="#" class="full_link"></a>
 							</div>
 						</li>
 						<li>
 							<div class="item">
-								<img src="img/landing/invs-HelenM.png" alt=""/>
+								<img src="img/landing/invs-HelenM.png" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/>
 								<a href="#" class="full_link"></a>
 							</div>
 						</li>

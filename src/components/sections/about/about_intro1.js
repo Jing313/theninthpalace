@@ -5,7 +5,7 @@ function AboutIntro1() {
     <>
       <div class="neoh_fn_about_item">
         <div class="img_item">
-          <img src="img/1.jpg" alt="" />
+          <img src="img/1.jpg" alt="The Ninth Palace NFT Icon" title="The Ninth Palace " />
         </div>
         <div class="content_item">
           <div class="neoh_fn_title" data-align="left">

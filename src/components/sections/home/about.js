@@ -9,7 +9,7 @@ function HomeAbout() {
 				{/* <!-- About Item #1 --> */}
 				<div class="neoh_fn_about_item">
 					<div class="img_item">
-						<img src="img/landing/InceptionCollection.png" alt=""/>
+						<img src="img/landing/InceptionCollection.jpg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/>
 					</div>
 					<div class="content_item">
 						
@@ -37,7 +37,7 @@ function HomeAbout() {
 				{/* <!-- About Item #2 --> */}
 				<div class="neoh_fn_about_item reverse">
 					<div class="img_item">
-						<img src="img/landing/Intro_to_The_One.jpg" alt=""/>
+						<img src="img/landing/Intro_to_The_One2.jpg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace " />
 					</div>
 					<div class="content_item_landing">
 						

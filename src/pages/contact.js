@@ -5,6 +5,7 @@ import ToTop from "../components/totop";
 import Footer from "../components/footer";
 import HeroSection from "../components/sections/contact/hero";
 import ContactForm from '../components/sections/contact/contactform';
+import Teams from '../components/sections/about/team';
 
 function Contact() {
   return (
@@ -21,7 +22,8 @@ function Contact() {
         {/* <!-- Content --> */}
         <div class="neoh_fn_content">
           <HeroSection />
-          <ContactForm />
+          {/* <ContactForm /> */}
+          <Teams />
         </div>
         {/* <!-- Content --> */}
 

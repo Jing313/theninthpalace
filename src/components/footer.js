@@ -15,7 +15,7 @@ function Footer() {
 					
 						<div class="desc">
 							<div class="img">
-								<img src="img/footer-logo.png" alt=""/>
+								<img src="img/footer-logo.png" alt="The Ninth Palace NFT Icon" title="The Ninth Palace "/>
 							</div>
 							<h3 class="fn_title">Join Now For Early Access</h3>
 							<p class="fn_desc">

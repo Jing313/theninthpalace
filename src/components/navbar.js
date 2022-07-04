@@ -24,7 +24,7 @@ function Navbar() {
 				<ul>
 					<li class="menu-item"><Link to="/">Home</Link></li>
 					<li class="menu-item"><Link to="/about">About</Link></li>
-					<li class="menu-item"><Link to="/roadmap">RoadMap</Link></li>
+					<li class="menu-item"><Link to="/roadmap">Securus Protocol</Link></li>
 					{/* <li class="menu-item"><Link to="/#">Mint</Link></li> */}
 					<li class="menu-item"><Link to="/contact">Contact</Link></li>
 				</ul>

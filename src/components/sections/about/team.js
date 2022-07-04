@@ -27,7 +27,7 @@ function Teams() {
                     <div class="t_item">
                       <div class="person_info">
                         <div class="img_holder">
-                          <img src="img/author/1.jpg" alt="" />
+                          <img src="img/author/1.jpg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace " />
                         </div>
                         <div class="title_holder">
                           <h3 class="fn_title">X</h3>
@@ -60,7 +60,7 @@ function Teams() {
                     <div class="t_item">
                       <div class="person_info">
                         <div class="img_holder">
-                          <img src="img/author/2.jpg" alt="" />
+                          <img src="img/author/2.jpg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace " />
                         </div>
                         <div class="title_holder">
                           <h3 class="fn_title">Dika</h3>
@@ -93,7 +93,7 @@ function Teams() {
                     <div class="t_item">
                       <div class="person_info">
                         <div class="img_holder">
-                          <img src="img/author/3.jpg" alt="" />
+                          <img src="img/author/3.jpg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace " />
                         </div>
                         <div class="title_holder">
                           <h3 class="fn_title">Jin</h3>
@@ -126,7 +126,7 @@ function Teams() {
                     <div class="t_item">
                       <div class="person_info">
                         <div class="img_holder">
-                          <img src="img/author/4.jpg" alt="" />
+                          <img src="img/author/4.jpg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace " />
                         </div>
                         <div class="title_holder">
                           <h3 class="fn_title">T</h3>
@@ -159,11 +159,11 @@ function Teams() {
                     <div class="t_item">
                       <div class="person_info">
                         <div class="img_holder">
-                          <img src="img/author/5.jpg" alt="" />
+                          <img src="img/author/5.jpg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace " />
                         </div>
                         <div class="title_holder">
-                          <h3 class="fn_title">A</h3>
-                          <p class="fn_desc">Designer</p>
+                          <h3 class="fn_title">3D</h3>
+                          <p class="fn_desc">3D Character Modeling</p>
                         </div>
                       </div>
                       <div class="person_social">
@@ -192,7 +192,40 @@ function Teams() {
                     <div class="t_item">
                       <div class="person_info">
                         <div class="img_holder">
-                          <img src="img/author/6.jpg" alt="" />
+                          <img src="img/author/5.jpg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace " />
+                        </div>
+                        <div class="title_holder">
+                          <h3 class="fn_title">Animator</h3>
+                          <p class="fn_desc">Animator</p>
+                        </div>
+                      </div>
+                      <div class="person_social">
+                        <ul>
+                          <li>
+                            <a href="#"><i class="fn-icon-twitter"></i></a>
+                          </li>
+                          <li>
+                            <a href="#"><i class="fn-icon-facebook"></i></a>
+                          </li>
+                          <li>
+                            <a href="#"><i class="fn-icon-instagram"></i></a>
+                          </li>
+                          <li>
+                            <a href="#"><i class="fn-icon-pinterest"></i></a>
+                          </li>
+                          <li>
+                            <a href="#"><i class="fn-icon-behance"></i></a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </li>
+
+                  <li class="team_item">
+                    <div class="t_item">
+                      <div class="person_info">
+                        <div class="img_holder">
+                          <img src="img/author/6.jpg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace " />
                         </div>
                         <div class="title_holder">
                           <h3 class="fn_title">The Ninth Palace</h3>
@@ -220,6 +253,40 @@ function Teams() {
                       </div>
                     </div>
                   </li>
+
+                  <li class="team_item">
+                    <div class="t_item">
+                      <div class="person_info">
+                        <div class="img_holder">
+                          <img src="img/author/5.jpg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace " />
+                        </div>
+                        <div class="title_holder">
+                          <h3 class="fn_title">Community Manager</h3>
+                          <p class="fn_desc">Community Manager</p>
+                        </div>
+                      </div>
+                      <div class="person_social">
+                        <ul>
+                          <li>
+                            <a href="#"><i class="fn-icon-twitter"></i></a>
+                          </li>
+                          <li>
+                            <a href="#"><i class="fn-icon-facebook"></i></a>
+                          </li>
+                          <li>
+                            <a href="#"><i class="fn-icon-instagram"></i></a>
+                          </li>
+                          <li>
+                            <a href="#"><i class="fn-icon-pinterest"></i></a>
+                          </li>
+                          <li>
+                            <a href="#"><i class="fn-icon-behance"></i></a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </li>
+
                 </ul>
               </div>
               {/* <!-- !Team List Shortcode --> */}

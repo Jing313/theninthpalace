@@ -37,7 +37,7 @@ function SingleContent() {
                 </div>
                 
                 <div class="single_img">
-                    <img src="img/roadmap/Roadmap.jpg" alt="" />
+                    <img src="img/roadmap/Roadmap.jpg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace " />
                 </div>
                 
                 <DescItem1 />

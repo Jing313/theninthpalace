@@ -13,7 +13,7 @@ function HeroHeader() {
 				{/* <!-- !Overlay Color --> */}
 				
 				{/* <!-- Overlay Image --> */}
-				<div class="bg_image" data-bg-img="img/landing/LandingBg.jpg"></div>
+				<div class="bg_image" data-bg-img="./img/landing/LandingBg.jpg"></div>
 				{/* <!-- !Overlay Image --> */}
 				
 			</div>

@@ -76,7 +76,7 @@ function NormalContent() {
                       <div class="neoh_fn_gallery_1_2">
                         <div class="gallery_in">
                           <div class="item row2">
-                            <img src="img/landing/roadmap1a.jpg" alt="" />
+                            <img src="img/landing/roadmap1a.jpg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace " />
                           </div>
                           <div class="item">
                             <img src="img/landing/roadmap1b.png" alt="" />
@@ -124,7 +124,7 @@ function NormalContent() {
                       <div class="neoh_fn_gallery_1_2">
                         <div class="gallery_in">
                           <div class="item row2">
-                            <img src="img/landing/roadmap2a.jpg" alt="" />
+                            <img src="img/landing/roadmap2a.jpg" alt="The Ninth Palace Game Icon " title="The Ninth Palace Game " />
                           </div>
                           <div class="item">
                             <img src="img/landing/roadmap2b.jpg" alt="" />
@@ -170,7 +170,7 @@ function NormalContent() {
                       <div class="neoh_fn_gallery_1_2">
                         <div class="gallery_in">
                           <div class="item row2">
-                            <img src="img/landing/roadmap3a.png" alt="" />
+                            <img src="img/landing/roadmap3a.png" alt="The Ninth Palace P2E Icon " title="The Ninth Palace Play to Earn " />
                           </div>
                           <div class="item">
                             <img src="img/landing/roadmap3b.jpg" alt="" />
@@ -220,7 +220,7 @@ function NormalContent() {
                       <div class="neoh_fn_gallery_1_2">
                         <div class="gallery_in">
                           <div class="item row2">
-                            <img src="img/landing/comingsoon.jpg" alt="" />
+                            <img src="img/landing/comingsoon.jpg" alt="The Ninth Palace Game Icon " title="The Ninth Palace Game " />
                           </div>
                           <div class="item">
                             <img src="img/landing/comingsoon.jpg" alt="" />
@@ -257,7 +257,7 @@ function NormalContent() {
                       <div class="neoh_fn_gallery_1_2">
                         <div class="gallery_in">
                           <div class="item row2">
-                            <img src="img/landing/comingsoon.jpg" alt="" />
+                            <img src="img/landing/comingsoon.jpg" alt="The Ninth Palace P2E Icon " title="The Ninth Palace Play to Earn " />
                           </div>
                           <div class="item">
                             <img src="img/landing/comingsoon.jpg" alt="" />

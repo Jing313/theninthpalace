@@ -7,7 +7,7 @@ function HomeRoadmap() {
         <div class="container">
           {/* <!-- Main Title --> */}
           <div class="neoh_fn_title">
-            <h3 class="fn_title">Roadmap 2022-2023</h3>
+            <h3 class="fn_title">Securus Protocol 2022-2023</h3>
             <div class="line">
               <span></span>
             </div>
@@ -24,7 +24,7 @@ function HomeRoadmap() {
                     <div class="t_item_img">
                       <div class="neoh_fn_gallery_1_2">
                       <div class="img_item">
-						<img src="img/landing/roadmap1a.jpg" alt=""/>
+						<img src="img/landing/roadmap1.png" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/>
 					</div>
                         {/* <div class="gallery_in">                        
                            <div class="item row2">
@@ -53,7 +53,7 @@ function HomeRoadmap() {
                     <div class="t_item_img">
                       <div class="neoh_fn_gallery_1_2">
                       <div class="img_item">
-						<img src="img/landing/roadmap2a.jpg" alt=""/>
+						<img src="img/landing/roadmap2a.jpg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/>
 					</div>
                         {/* <div class="gallery_in">
                           <div class="item row2">
@@ -83,13 +83,13 @@ function HomeRoadmap() {
                       <div class="neoh_fn_gallery_1_2">
                         <div class="gallery_in">
                           <div class="item row2">
-                            <img src="img/landing/roadmap3a.png" alt="" />
+                            <img src="img/landing/roadmap3.png" alt="The Ninth Palace P2E Icon " title="The Ninth Palace Play to Earn " />
                           </div>
                           <div class="item">
-                            <img src="img/thumbs/02.png" alt="" />
+                            <img src="img/thumbs/02.png" alt="The Ninth Palace P2E Icon " title="The Ninth Palace Play to Earn " />
                           </div>
                           <div class="item">
-                            <img src="img/thumbs/02.png" alt="" />
+                            <img src="img/thumbs/02.png" alt="The Ninth Palace P2E Icon " title="The Ninth Palace Play to Earn " />
                           </div>
                         </div>
                       </div>
@@ -109,13 +109,13 @@ function HomeRoadmap() {
                       <div class="neoh_fn_gallery_1_2">
                         <div class="gallery_in">
                           <div class="item row2">
-                            <img src="img/landing/comingsoon.jpg" alt="" />
+                            <img src="img/landing/comingsoon.jpg" alt="The Ninth Palace Game Icon " title="The Ninth Palace Game " />
                           </div>
                            <div class="item">
-                            <img src="img/thumbs/02.png" alt="" />
+                            <img src="img/thumbs/02.png" alt="The Ninth Palace P2E Icon " title="The Ninth Palace Play to Earn " />
                           </div>
                           <div class="item">
-                            <img src="img/thumbs/02.png" alt="" />
+                            <img src="img/thumbs/02.png" alt="The Ninth Palace P2E Icon " title="The Ninth Palace Play to Earn " />
                           </div> 
                         </div>
                       </div>
@@ -135,13 +135,13 @@ function HomeRoadmap() {
                       <div class="neoh_fn_gallery_1_2">
                         <div class="gallery_in">
                           <div class="item row2">
-                            <img src="img/landing/comingsoon.jpg" alt="" />
+                            <img src="img/landing/roadmap5.png" alt="The Ninth Palace P2E Icon " title="The Ninth Palace Play to Earn " />
                           </div>
                            <div class="item">
-                            <img src="img/thumbs/02.png" alt="" />
+                            <img src="img/thumbs/02.png" alt="The Ninth Palace P2E Icon " title="The Ninth Palace Play to Earn " />
                           </div>
                           <div class="item">
-                            <img src="img/thumbs/02.png" alt="" />
+                            <img src="img/thumbs/02.png" alt="The Ninth Palace P2E Icon " title="The Ninth Palace Play to Earn " />
                           </div> 
                         </div>
                       </div>

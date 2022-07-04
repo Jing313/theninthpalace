@@ -18,11 +18,8 @@ function Roadmap() {
         {/* <!-- !Header --> */}
 
         {/* <!-- Content --> */}
-        <div class="neoh_fn_content">
-          
           {/* <SingleContent /> */}
           <NormalContent />
-        </div>
         {/* <!-- Content --> */}
 
         {/* <!-- Footer --> */}
