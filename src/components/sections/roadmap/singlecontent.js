@@ -30,7 +30,7 @@ function SingleContent() {
                     <p>
                         <a href="/">Home</a>
                         <span class="separator">/</span>
-                        <a href="/roadmap">RoadMap</a>
+                        <a href="/roadmap">Securus Protocol</a>
                         <span class="separator">/</span>
                         <span class="current">Mini Game Launch for Community</span>
                     </p>

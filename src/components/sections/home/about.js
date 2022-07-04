@@ -20,12 +20,12 @@ function HomeAbout() {
 						
 						<div class="desc">
 							<p>The quality of the project is paramount to us. We’ve been planning, writing, and designing for nearly a year. </p>
-							<p>The roadmap coincides with the story's narrative arc. The game economy, known as The Resistance Economy, is built on sustainability; game progressions and map design have been thoroughly planned. We're currently in pre-production.</p>
+							<p>The Securus Protocol coincides with the story's narrative arc. The game economy, known as The Resistance Economy, is built on sustainability; game progressions and map design have been thoroughly planned. We're currently in pre-production.</p>
 							<p>We’re excited to watch the community discover the secrets, the storylines within storylines, hidden within The Ninth Palace.</p>
 						</div>
 
 						<div class="buttons">
-						<a href="./about" class="neoh_fn_button only_text">
+						<a href="/theninthpalace/about#/about" class="neoh_fn_button only_text">
 								<span class="text">More About US</span>
 							</a>
 						</div>

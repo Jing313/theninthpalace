@@ -24,7 +24,7 @@ function NormalContent() {
                 <p>
                   <a href="/">Home</a>
                   <span class="separator">/</span>
-                  <a href="/roadmap">RoadMap</a>
+                  <a href="/roadmap">Securus Protocol</a>
                 </p>
               </div>
               <div class="single_title">
@@ -41,7 +41,7 @@ function NormalContent() {
               <div class="single_desc">
                 <p class="fn_desc">
                     Please, understand that the following is subject to change. This document is meant to lead the Resistance, but it is not a definitive 
-                    list of what we must do to flourish. The timing and order of these items can change as we scale. We've created this Roadmap with three
+                    list of what we must do to flourish. The timing and order of these items can change as we scale. We've created this Securus Protocol with three
                     primary goals in mind.
                     <ul>
                         <li>Launch The Ninth Palace for PC; Campaign & PvP Modes.</li>

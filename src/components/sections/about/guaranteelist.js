@@ -40,7 +40,7 @@ function GuaranteeList() {
                         The number one question we answer at the top of every storyboard is: 
                         Will this be around in 5-years? The crux of the project has been centered around sustainability. 
                         We started this as a video game totally unconnected to Web3 in any way. 
-                        We have gone through the Web3 additions painstakingly to ensure the roadmap is realistic, the company is sustainable, and the in-game economy is as far from "ponzinomics" as possible. 
+                        We have gone through the Web3 additions painstakingly to ensure the Securus Protocol is realistic, the company is sustainable, and the in-game economy is as far from "ponzinomics" as possible. 
                         Play-to-Earn doesn't not mean "unsustainable," and the idea is to illustrate that with a AAA-Tier game. 
                       </p>
                     </div>

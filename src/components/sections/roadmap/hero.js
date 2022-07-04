@@ -11,11 +11,11 @@ function RoadmapHero() {
 			</div>
 			<div class="pt_content">
 				<div class="container">
-					<h3 class="fn_title fn_animated_text" data-wait="1000" data-speed="8">RoadMap</h3>
+					<h3 class="fn_title fn_animated_text" data-wait="1000" data-speed="8">Securus Protocol</h3>
 					<p class="fn_desc">
 						<a href="/">Home</a>
 						<span class="separator">/</span>
-						<span class="current">RoadMap</span>
+						<span class="current">Securus Protocol</span>
 					</p>
 				</div>	
 			</div>
