@@ -9,11 +9,11 @@ function Footer() {
 		<div class="neoh_fn_footer">
 		
 			{/* <!-- Footer Top --> */}
-			<div class="footer_top">
+			{/*<div class="footer_top">
 				<div class="container">
 					<div class="ft_in">
 					
-						<div class="desc">
+						 <div class="desc">
 							<div class="img">
 								<img src="img/footer-logo.png" alt="The Ninth Palace NFT Icon" title="The Ninth Palace "/>
 							</div>
@@ -37,26 +37,26 @@ function Footer() {
 							<div class="returnmessage" data-success="Your message has been received, We will contact you soon." data-message="You have subscribed to our updates. Thank you" data-invalid-email="Please enter valid email!"></div>
 							<div class="empty_notice"><span>Please enter your Email</span>
 							</div>
-						</div>
+						</div> */}
 						
 						{/* <SocialList /> */}
-						<SocialListFooter />
+						{/* <SocialListFooter /> 
 						
 					</div>
 				</div>
-			</div>
+			</div>*/}
 			{/* <!-- !Footer Top --> */}
 			
 			{/* <!-- Footer Bottom --> */}
 			<div class="footer_bottom">
 				<div class="container">
 					<div class="fb_in">
-						
+
 						<div class="fb_left">
 							<p>Copyright: CC0; Design: Frenify; Development: Jin</p>
 						</div>
 						
-						
+						<SocialListFooter />
 					</div>
 				</div>
 			</div>

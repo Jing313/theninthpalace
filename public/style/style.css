@@ -563,8 +563,8 @@ a.full_link{
 	padding: 40px 140px 40px 0px;
 }
 .neoh_fn_about_item.reverse .content_item_landing{
-	width: 55%;
-	padding: 40px 60px 40px 0px;
+	/* width: 55%; */
+	padding: 40px 140px 40px 0px;
 }
 .neoh_fn_about_item .img_item{
 	width: 50%;

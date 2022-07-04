@@ -53,9 +53,9 @@ function Navbar() {
 		
 		{/* <!-- Nav Footer --> */}
 		<div class="nav_footer">
-			<div class="nf_left">
+			{/* <div class="nf_left">
 				<p>Copyright: CC0; Design: Frenify; Development: Jin </p>
-			</div>
+			</div> */}
 			<div class="nf_right">
 				<SocialList />
 			</div>
