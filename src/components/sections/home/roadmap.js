@@ -43,7 +43,7 @@ function HomeRoadmap() {
                       <p class="fn_date">
                         <span>June-September 2022</span>
                       </p>
-                      <h3 class="fn_title"><a href="/roadmap">Introduction. Explanation. Understanding.</a></h3>
+                      <h3 class="fn_title"><a href="/theninthpalace/roadmap">Introduction. Explanation. Understanding.</a></h3>
                       <p class="fn_desc">Introducing the project to the world. Bringing the gaming & NFT communities together through Discord. Releasing the first clue in "The Resistance Riddle." The pre-production phase for the PC game will end and production will begin. The avatars will mint and the first "Safe House" will be opened. The mobile beta-testing list will open.</p>
                     </div>
                   </div>

@@ -25,7 +25,7 @@ function HomeAbout() {
 						</div>
 
 						<div class="buttons">
-						<a href="/theninthpalace/about#/about" class="neoh_fn_button only_text">
+						<a href="/theninthpalace/about" class="neoh_fn_button only_text">
 								<span class="text">More About US</span>
 							</a>
 						</div>
