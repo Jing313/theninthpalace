@@ -12,7 +12,9 @@ import Teams from '../components/sections/about/team';
 
 function About() {
   return (
+    
     <div>
+      
       <div class="neoh_fn_main" data-footer-sticky="">
         {/* <!-- Right Navigation --> */}
 		<Navbar />

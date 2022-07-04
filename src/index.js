@@ -23,11 +23,11 @@ root.render(
     {/* <Router basename="/theninthpalace"> </Router> */}
     <HashRouter>
       <Routes>
-        <Route path="/" element={<Layout />}>
+        <Route exact path="/" element={<Layout />}>
           <Route index element={<Home />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/contact" element={<Contact />} />
-          <Route path="/roadmap" element={<Roadmap />} />
+          <Route exact path="/about" element={<About />} />
+          <Route exact path="/contact" element={<Contact />} />
+          <Route exact path="/roadmap" element={<Roadmap />} />
         </Route>
       </Routes>
     </HashRouter>

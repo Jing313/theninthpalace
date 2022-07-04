@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 function HomeRoadmap() {
   return (
@@ -24,8 +25,9 @@ function HomeRoadmap() {
                     <div class="t_item_img">
                       <div class="neoh_fn_gallery_1_2">
                       <div class="img_item">
-						<img src="img/landing/roadmap1.png" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/>
-					</div>
+                        <img src="img/landing/roadmap1.png" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/>
+                        {/* <img src="img/svg/WebLogos/TheResistanceLogoBlack.svg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/> */}
+                      </div>
                         {/* <div class="gallery_in">                        
                            <div class="item row2">
                             <img src="img/landing/roadmap1a.jpg" alt="" />
@@ -43,7 +45,7 @@ function HomeRoadmap() {
                       <p class="fn_date">
                         <span>June-September 2022</span>
                       </p>
-                      <h3 class="fn_title"><a href="/theninthpalace/roadmap">Introduction. Explanation. Understanding.</a></h3>
+                      <h3 class="fn_title"><Link to="/roadmap">Introduction. Explanation. Understanding.</Link></h3>
                       <p class="fn_desc">Introducing the project to the world. Bringing the gaming & NFT communities together through Discord. Releasing the first clue in "The Resistance Riddle." The pre-production phase for the PC game will end and production will begin. The avatars will mint and the first "Safe House" will be opened. The mobile beta-testing list will open.</p>
                     </div>
                   </div>
@@ -53,8 +55,9 @@ function HomeRoadmap() {
                     <div class="t_item_img">
                       <div class="neoh_fn_gallery_1_2">
                       <div class="img_item">
-						<img src="img/landing/roadmap2a.jpg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/>
-					</div>
+                        {/* <img src="img/landing/roadmap2a.jpg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/> */}
+                        <img src="img/svg/LandingImages/LandingRMImage2.svg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/>
+                      </div>
                         {/* <div class="gallery_in">
                           <div class="item row2">
                             <img src="img/landing/roadmap2a.jpg" alt="" />
@@ -72,7 +75,7 @@ function HomeRoadmap() {
                       <p class="fn_date">
                         <span>October-December 2022</span>
                       </p>
-                      <h3 class="fn_title"><a href="/roadmap">Growth. Economics. Sustainability.</a></h3>
+                      <h3 class="fn_title"><Link to="/roadmap">Growth. Economics. Sustainability.</Link></h3>
                       <p class="fn_desc">The avatar viewer and dApp are released. Holders and players will have a chance to familiarize themselves with the environment; we will take suggestions, and be able to test effectively before the in-game deployment of a crucial piece of the ecosystem. Genesis holders will receive the "Auxiliary" airdrop. The Resistance Economy White Paper is introduced; voting ensues.</p>
                     </div>
                   </div>
@@ -98,7 +101,7 @@ function HomeRoadmap() {
                       <p class="fn_date">
                         <span>December-March 2023</span>
                       </p>
-                      <h3 class="fn_title"><a href="/roadmap">Launch. Test. Upgrade.</a></h3>
+                      <h3 class="fn_title"><Link to="/roadmap">Launch. Test. Upgrade.</Link></h3>
                       <p class="fn_desc">The Resistance Economy is launched. The $SIGNA token IDO; enables in-game & marketplace buying, selling, and trading of assets. The mobile game-"The Ninth Palace: Hunted for Love"- a sub-set of the storyline for the PC game, is released. The "ConnectOne" log-ins are introduced to coincide with the mobile game launch. The PC beta-testing list will open.</p>
                     </div>
                   </div>
@@ -124,7 +127,7 @@ function HomeRoadmap() {
                       <p class="fn_date">
                         <span>March-May 2023</span>
                       </p>
-                      <h3 class="fn_title"><a href="/roadmap">Level Up. Consolidate. Prepare.</a></h3>
+                      <h3 class="fn_title"><Link to="/roadmap">Level Up. Consolidate. Prepare.</Link></h3>
                       <p class="fn_desc">The team gears up for the PC game launch. There will be changes; security checks, and audits; testing will be done to ensure a smooth operating environment at scale; the "ConnectOne" system will undergo UI/UX/, A/B testing, and traffic testing. There will be an exclusive merchandise drop w/ Collaborators of the Resistance, which is marked Top Secret.</p>
                     </div>
                   </div>
@@ -135,7 +138,8 @@ function HomeRoadmap() {
                       <div class="neoh_fn_gallery_1_2">
                         <div class="gallery_in">
                           <div class="item row2">
-                            <img src="img/landing/roadmap5.png" alt="The Ninth Palace P2E Icon " title="The Ninth Palace Play to Earn " />
+                            {/* <img src="img/landing/roadmap5.png" alt="The Ninth Palace P2E Icon " title="The Ninth Palace Play to Earn " /> */}
+                            <img src="img/svg/LandingImages/LandingRMImage5.svg" alt="The Ninth Palace P2E Icon " title="The Ninth Palace Play to Earn "/>
                           </div>
                            <div class="item">
                             <img src="img/thumbs/02.png" alt="The Ninth Palace P2E Icon " title="The Ninth Palace Play to Earn " />
@@ -150,7 +154,7 @@ function HomeRoadmap() {
                       <p class="fn_date">
                         <span>June-August 2023</span>
                       </p>
-                      <h3 class="fn_title"><a href="/roadmap">Launch. Secure. Market. Scale.</a></h3>
+                      <h3 class="fn_title"><Link to="/roadmap">Launch. Secure. Market. Scale.</Link></h3>
                       <p class="fn_desc">The PC game launches. Integration with Flamestore. The $SIGNA token will become the official store of value within the ecosystem. The marketplace will launch and players will be able to submit assets to the Asset Approval Team. All asset royalties will belong to the creator. A massive marketing campaign begins.</p>
                     </div>
                   </div>

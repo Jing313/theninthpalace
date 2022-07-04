@@ -22,7 +22,7 @@ function Investors() {
 					<ul>
 						<li>
 							<div class="item">
-								<img src="img/landing/invs-FlameStore.png" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/>
+								<img src="img/landing/flame_logo.png" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/>
 								<a href="#" class="full_link"></a>
 							</div>
 						</li>

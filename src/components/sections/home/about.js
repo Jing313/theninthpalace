@@ -1,6 +1,12 @@
 import React from "react";
+import { Link, useNavigate } from "react-router-dom";
 
 function HomeAbout() {
+	const navigate = useNavigate();
+	const navigateToAbout = () => {
+		// 👇️ navigate to /contacts
+		navigate('/about');
+	  };
     return (
     <>
     <section id="about">
@@ -9,7 +15,8 @@ function HomeAbout() {
 				{/* <!-- About Item #1 --> */}
 				<div class="neoh_fn_about_item">
 					<div class="img_item">
-						<img src="img/landing/InceptionCollection.jpg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/>
+						{/* <img src="img/landing/InceptionCollection.jpg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/> */}
+						<img src="img/svg/LandingImages/LandingInceptioCollection.svg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/>
 					</div>
 					<div class="content_item">
 						
@@ -25,9 +32,9 @@ function HomeAbout() {
 						</div>
 
 						<div class="buttons">
-						<a href="/theninthpalace/about" class="neoh_fn_button only_text">
+							<Link to="/about" class="neoh_fn_button only_text">
 								<span class="text">More About US</span>
-							</a>
+							</Link>
 						</div>
 						
 					</div>
@@ -37,7 +44,8 @@ function HomeAbout() {
 				{/* <!-- About Item #2 --> */}
 				<div class="neoh_fn_about_item reverse">
 					<div class="img_item">
-						<img src="img/landing/Intro_to_The_One2.jpg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace " />
+						{/* <img src="img/landing/Intro_to_The_One2.jpg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace " /> */}
+						<img src="img/svg/LandingImages/LandingOnePrelude.svg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace " />
 					</div>
 					<div class="content_item_landing">
 						

@@ -5,7 +5,8 @@ function AboutIntro2() {
     <>
     <div class="neoh_fn_about_item reverse">
                 <div class="img_item">
-                  <img src="img/about/CampaignVMultiplayer.jpg" alt="The Ninth Palace NFT Icon" title="The Ninth Palace " />
+                  {/* <img src="img/about/CampaignVMultiplayer.jpg" alt="The Ninth Palace NFT Icon" title="The Ninth Palace " /> */}
+                  <img src="img/svg/AboutImages/AboutCampaignvMultiplayer.svg" alt="The Ninth Palace NFT Icon" title="The Ninth Palace " />
                 </div>
                 <div class="content_item">
                   <div class="neoh_fn_title" data-align="left">
