@@ -157,6 +157,7 @@ a.full_link{
 	background-position: center center;
 	
 }
+
 .bg_overlay .bg_color{
 	z-index: 2;
 }
@@ -242,7 +243,7 @@ a.full_link{
 	-moz-user-select: none;
 	-webkit-user-select: none;
 	-ms-user-select: none;
-	transition: all .3s ease;
+	transition: all .1s ease;
 }
 .trigger.is-active,
 .trigger:hover .trigger_in{
@@ -1539,6 +1540,7 @@ a.full_link{
 	background-color: var(--sbc);
 }
 .neoh_fn_footer .footer_top{
+
 	padding: 150px 0;
 }
 .neoh_fn_footer .ft_in{
