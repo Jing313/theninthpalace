@@ -155,8 +155,8 @@ a.full_link{
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
-	
 }
+
 .bg_overlay .bg_color{
 	z-index: 2;
 }
@@ -218,8 +218,8 @@ a.full_link{
 	align-items: center;
 }
 .neoh_fn_header .header_in .logo{
-	width: 40px;
-	height: 40px;
+	width: 80px;
+	height: 80px;
 }
 
 .trigger_in{
@@ -242,7 +242,7 @@ a.full_link{
 	-moz-user-select: none;
 	-webkit-user-select: none;
 	-ms-user-select: none;
-	transition: all .3s ease;
+	transition: all .0s ease;
 }
 .trigger.is-active,
 .trigger:hover .trigger_in{
@@ -282,7 +282,7 @@ a.full_link{
 	height: 1px;
 	background-color: #aaa;
 	left: 0;
-	transition: all .3s ease;
+	transition: all .1s ease;
 }
 .trigger_in .hamb_a{top: 0;}
 .trigger_in .hamb_b{top: 7px;}
@@ -348,7 +348,7 @@ a.full_link{
 	z-index: 10;
 }
 .neoh_fn_hero .bg_color{
-	background-color: rgba(0,0,0,0.85);
+	background-color: rgba(0,0,0,0.6);
 }
 
 
@@ -1350,6 +1350,9 @@ a.full_link{
 	padding: 0;
 	list-style-type: none;
 	margin-left: -10px;
+	-ms-align-items: center;
+	align-items: center;
+	justify-content: center;
 }
 .neoh_fn_investor li{
 	width: 20%;
@@ -1537,6 +1540,8 @@ a.full_link{
 }
 .neoh_fn_footer{
 	background-color: var(--sbc);
+	background-image: url('../../public/img/svg/divider.svg');
+	background-repeat: no-repeat;
 }
 .neoh_fn_footer .footer_top{
 	padding: 150px 0;
@@ -1612,6 +1617,26 @@ a.full_link{
 	justify-content: space-between;
 	-ms-align-items: center;
 	align-items: center;
+}
+.neoh_fn_footer ul{
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	-webkit-flex-direction: row;
+	-moz-flex-direction: row;
+	-ms-flex-direction: row;
+	-o-flex-direction: row;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	margin-left: -10px;
+	-ms-align-items: center;
+	align-items: center;
+	justify-content: center;
 }
 .neoh_fn_footer .fb_left p{
 	margin: 0;
@@ -1982,7 +2007,7 @@ a.full_link{
 	padding: 244px 0 143px;
 }
 .neoh_fn_pagetitle .bg_color{
-	background-color: rgba(0,0,0,0.85);
+	background-color: rgba(0,0,0,0.6);
 }
 .neoh_fn_pagetitle .pt_content{
 	position: relative;
@@ -2632,8 +2657,14 @@ a.full_link{
 	width: 100%;
 	height: 100%;
 	object-fit: cover;
-	border-radius: 100%;
+	border-radius: 100%;   
+	transition: all 1s ease;
 }
+.neoh_fn_team .img_holder:hover img{
+	transition: all 1s ease;
+	transform: scale(1.1) rotate(-5deg) translateZ(0);
+}
+
 .neoh_fn_team .fn_title{
 	margin: 0;
 	padding: 0;

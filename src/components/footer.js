@@ -1,13 +1,15 @@
 import React from "react";
+import BottomDivider from "./bottomdivider";
 import SocialList from "./sociallist";
 import SocialListFooter from "./sociallistfooter";
+import TopDivider from "./topdivider";
 
 function Footer() {
     return (
     <>
+	
     <footer id="footer">
 		<div class="neoh_fn_footer">
-		
 			{/* <!-- Footer Top --> */}
 			{/*<div class="footer_top">
 				<div class="container">
@@ -48,12 +50,20 @@ function Footer() {
 			{/* <!-- !Footer Top --> */}
 			
 			{/* <!-- Footer Bottom --> */}
+			
 			<div class="footer_bottom">
 				<div class="container">
 					<div class="fb_in">
-
+					
 						<div class="fb_left">
-							<p>Copyright: CC0; Design: Frenify; Development: Jin</p>
+							<ul>
+								<li>
+								<img src="img/footer-logo.png" width="80px" alt="The Ninth Palace NFT Icon" title="The Ninth Palace "/>
+								</li>
+								<li>
+								<p>Copyright: CC0; Design: Frenify; Development: Jin</p>
+								</li>
+							</ul>
 						</div>
 						
 						<SocialListFooter />

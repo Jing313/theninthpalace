@@ -8,7 +8,7 @@ import {BrowserRouter as Router, Routes, Route, HashRouter } from 'react-router-
 import Layout from "./pages/layout";
 import Home from "./pages/home";
 import About from "./pages/about";
-import Contact from "./pages/contact";
+import Teams from "./pages/teams";
 import Roadmap from "./pages/roadmap";
 
 // Netlify
@@ -26,7 +26,7 @@ root.render(
         <Route exact path="/" element={<Layout />}>
           <Route index element={<Home />} />
           <Route exact path="/about" element={<About />} />
-          <Route exact path="/contact" element={<Contact />} />
+          <Route exact path="/teams" element={<Teams />} />
           <Route exact path="/roadmap" element={<Roadmap />} />
         </Route>
       </Routes>

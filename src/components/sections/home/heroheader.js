@@ -13,8 +13,8 @@ function HeroHeader() {
 				{/* <!-- !Overlay Color --> */}
 				
 				{/* <!-- Overlay Image --> */}
-				{/* <div class="bg_image" data-bg-img="./img/landing/LandingBg.jpg"></div> */}
-				<div class="bg_image" data-bg-img="img/svg/LandingImages/LandingBackground.svg"></div>
+				<div class="bg_image" data-bg-img="img/landing/LandingBg.jpg"></div>
+				{/* <div class="bg_image" data-bg-img="img/svg/LandingImages/LandingBackground.svg"></div> */}
 				{/* <!-- !Overlay Image --> */}
 				
 			</div>
@@ -24,7 +24,7 @@ function HeroHeader() {
 				<div class="container">
 					<div class="content">
 						<h2 class="fn_title" title="Ninth Palace">The Ninth Palace</h2>
-						<p class="fn_desc fn_animated_text"><b>Join The Resistance.</b></p>
+						<p class="fn_desc fn_animated_text"><b>Join The Resistance</b></p>
 					</div>
 				</div>
 				<a href="#about" class="neoh_fn_down magic-hover magic-hover__square">

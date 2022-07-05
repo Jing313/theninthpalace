@@ -10,9 +10,18 @@ import InvestorsSection from "../components/sections/home/investors";
 import UpdateSection from '../components/sections/home/updates';
 import ToTop from "../components/totop";
 import Footer from "../components/footer";
-
+import GoToTop from '../components/gototop';
+import Script from '../components/utils/customscript';
 
 function Home() {
+	// var loadScript = function(src) {
+	// 	var tag = document.createElement('script');
+	// 	tag.async = true;
+	// 	tag.src = src;
+	// 	document.body.appendChild(tag);
+	//   }
+	//   loadScript('./js/init.js?ver=1.1');
+	//   loadScript('https://platform.twitter.com/widgets.js');
   return (
     <div >
       {/* <!-- Main --> */}
@@ -60,7 +69,9 @@ function Home() {
 		{/* <!-- Totop --> */}
 		<ToTop />
 		{/* <!-- !Totop --> */}
-
+		{/* <!-- Go to top when load --> */}
+		<GoToTop />
+		<Script  />
 	</div>
 	{/* <!-- !Main --> */}
     </div>

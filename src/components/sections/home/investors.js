@@ -12,7 +12,7 @@ function Investors() {
 				
 				{/* <!-- Main Title --> */}
 				<div class="neoh_fn_title">
-					<h3 class="fn_title">The Resistance x Partners</h3>
+					<h3 class="fn_title">Powered By</h3>
 					<div class="line"><span></span></div>
 				</div>
 				{/* <!-- !Main Title --> */}
@@ -44,19 +44,8 @@ function Investors() {
 								<a href="#" class="full_link"></a>
 							</div>
 						</li>
-						{/* <li>
-							<div class="item">
-								<img src="img/investors/5.png" alt=""/>
-								<a href="#" class="full_link"></a>
-							</div>
-						</li>
-						<li>
-							<div class="item">
-								<img src="img/investors/6.png" alt=""/>
-								<a href="#" class="full_link"></a>
-							</div>
-						</li>
-						<li>
+						 
+						{/*<li>
 							<div class="item">
 								<img src="img/investors/7.png" alt=""/>
 								<a href="#" class="full_link"></a>
@@ -80,6 +69,22 @@ function Investors() {
 								<a href="#" class="full_link"></a>
 							</div>
 						</li> */}
+					</ul>
+				</div>
+				<div class="neoh_fn_investor">
+					<ul>
+						<li>
+							<div class="item">
+								<img src="img/landing/playstore.png" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/>
+								<a href="#" class="full_link"></a>
+							</div>
+						</li>
+						<li>
+							<div class="item">
+								<img src="img/landing/appstore.png" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/>
+								<a href="#" class="full_link"></a>
+							</div>
+						</li>
 					</ul>
 				</div>
 				{/* <!-- !Investor List Shortcode --> */}
