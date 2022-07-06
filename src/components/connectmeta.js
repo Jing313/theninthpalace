@@ -16,6 +16,17 @@ export default function ConnectMetaMask  ({ onAddressChanged }) {
     setUserAddress(userAddress);
   }, [userAddress]);
 
+  useEffect(() => {
+    if(window.ethereum) {
+      window.ethereum.on('chainChanged', () => {
+        window.location.reload();
+      })
+      window.ethereum.on('accountsChanged', () => {
+        window.location.reload();
+      })
+  }});
+  
+
   async function checkIfWalletIsConnected(onConnected) {
     if (window.ethereum) {
       const accounts = await window.ethereum.request({
