@@ -33,13 +33,9 @@ function Roadmap() {
         {/* <!-- !Totop --> */}
         {/* <!-- Go to top when load --> */}
 		    <GoToTop />
+        <Script  />
       </div>
-      {/* <Helmet>
-        <script src="./js/init.js?ver=1.1" type="text/javascript" />
-        <script src="./js/jquery.js" type="text/javascript" />
-        <script src="./js/plugins.js" type="text/javascript" />
-      </Helmet> */}
-      <Script  />
+      
     </div>
   );
 }

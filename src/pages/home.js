@@ -14,14 +14,6 @@ import GoToTop from '../components/gototop';
 import Script from '../components/utils/customscript';
 
 function Home() {
-	// var loadScript = function(src) {
-	// 	var tag = document.createElement('script');
-	// 	tag.async = true;
-	// 	tag.src = src;
-	// 	document.body.appendChild(tag);
-	//   }
-	//   loadScript('./js/init.js?ver=1.1');
-	//   loadScript('https://platform.twitter.com/widgets.js');
   return (
     <div >
       {/* <!-- Main --> */}

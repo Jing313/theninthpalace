@@ -13,14 +13,14 @@ function NormalContent() {
         <div class="neoh_fn_roadmap neoh_fn_single">
           <div class="single_content">
             <div class="container" id="roadmap-single-content">
-              <div class="neoh_fn_share">
+              {/* <div class="neoh_fn_share">
                 <h5 class="label">Share:</h5>
                 <ul>
                   <li>
                     <SocialList />
                   </li>
                 </ul>
-              </div>
+              </div> */}
 
               {/* <div class="neoh_fn_breadcrumbs">
                 <p>
