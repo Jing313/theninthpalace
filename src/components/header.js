@@ -1,4 +1,5 @@
 import React from "react";
+import ConnectMetaMask from "./connectmeta";
 
 function Header() {
     return (
@@ -11,9 +12,11 @@ function Header() {
 				<div class="logo">
 					<a href="./"><img src="img/logo.png" alt="The Ninth Palace NFT Icon" title="The Ninth Palace "/></a>
 				</div>
-				
+				<ConnectMetaMask />
 				<div class="trigger">
+					
 					<div class="trigger_in">
+					
 						<span class="text">Menu</span>
 						<span class="hamb">
 							<span class="hamb_a"></span>
