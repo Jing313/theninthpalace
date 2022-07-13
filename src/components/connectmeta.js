@@ -7,6 +7,7 @@ function isMobileDevice ()  {
 
 export default function ConnectMetaMask  ({ onAddressChanged }) {
   const [userAddress, setUserAddress] = useState("");
+  const walletAddress = 
 
   useEffect(() => {
     checkIfWalletIsConnected(setUserAddress);
@@ -80,10 +81,10 @@ export default function ConnectMetaMask  ({ onAddressChanged }) {
       <div class="buttons">
               <a href="" class="neoh_fn_button only_text" onClick={() => connect(setUserAddress)}>
               
-              <span class="text"> {userAddress? "Connected": "Connect wallet"} </span>
+              <span class="text"> {userAddress? `${userAddress.substring(0, 5)}...${userAddress.substring(-6)}` : "Connect wallet"} </span>
               
               </a>
-              <span className="text">{userAddress? `${userAddress.substring(0, 5)}...${userAddress.substr(-6)}`  : ""}</span>
+              <span className="text">{userAddress? `${userAddress.substring(0, 5)}...${userAddress.substring(-6)}`  : ""}</span>
       </div>
       // <button  onClick={() => connect(setUserAddress)}>
       //   Connect to MetaMask
