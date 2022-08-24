@@ -1,5 +1,9 @@
 import React from "react";
 import Dividers from "../../divider";
+import Flame from "../../../assest/landing/flame_logo.webp";
+import ETH from "../../../assest/svg/eth-logo-horiz.svg";
+import ImmutableX from "../../../assest/svg/immutableX-logo-horiz.svg";
+import Unity from "../../../assest/svg/unity-logo-horiz.svg";
 
 function Investors() {
     return (
@@ -22,28 +26,43 @@ function Investors() {
 					<ul>
 						<li>
 							<div class="item">
-								<img src="img/landing/flame_logo.png" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/>
+								<a href='https://unrealengine.com/en-US'>
+								<img 
+								style={{backgroundColor:'white'}}
+								src='/unreal5.png' alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/>
+								</a>
+								{/* <img src="img/landing/flame_logo.png" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/> */}
 								{/* <a href="#" class="full_link"></a> */}
 							</div>
 						</li>
 						<li>
 							<div class="item">
-								<img src="img/svg/eth-logo-horiz.svg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/>
-								<a href="#" class="full_link"></a>
+								<img 
+								
+								src={ETH} alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/>
+								{/* <img src="img/svg/eth-logo-horiz.svg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/> */}
+								{/* <a href="#" class="full_link"></a> */}
 							</div>
 						</li>
 						<li>
 							<div class="item">
-								<img src="img/svg/immutableX-logo-horiz.svg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/>
-								<a href="#" class="full_link"></a>
+								<img 
+								src='/sso.webp' alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/>
+								{/* <img src="img/svg/eth-logo-horiz.svg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/> */}
+								{/* <a href="#" class="full_link"></a> */}
 							</div>
 						</li>
 						<li>
 							<div class="item">
-								<img src="img/svg/unity-logo-horiz.svg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/>
-								<a href="#" class="full_link"></a>
+								<a href='https://ens.domains/'>
+								<img src='./enslogo.png' alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/>
+								</a>
+								{/* <img src="img/svg/immutableX-logo-horiz.svg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/> */}
+								{/* <a href="#" class="full_link"></a> */}
 							</div>
 						</li>
+						
+						
 						 
 						{/*<li>
 							<div class="item">
@@ -73,6 +92,45 @@ function Investors() {
 				</div>
 				<div class="neoh_fn_investor">
 					<ul>
+					<li>
+							<div class="item">
+								<a href='https://www.nuclino.com/'>
+								<img src='./nuclino.png' alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/>
+								</a>
+								{/* <img src="img/svg/unity-logo-horiz.svg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/> */}
+								{/* <a href="#" class="full_link"></a> */}
+							</div>
+						</li>
+						<li>
+							<div class="item">
+								<a href='https://www.autodesk.com/products/maya/overview'>
+								<img src='./autodeskmaya.png' alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/>
+								</a>
+								{/* <img src="img/svg/unity-logo-horiz.svg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/> */}
+								{/* <a href="#" class="full_link"></a> */}
+							</div>
+						</li>
+						<li>
+							<div class="item">
+								<a href='https://www.blender.org/'>
+								<img src='./Logo_Blender.svg.png' alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/>
+								</a>
+								{/* <img src="img/svg/unity-logo-horiz.svg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/> */}
+								{/* <a href="#" class="full_link"></a> */}
+							</div>
+						</li>
+						<li>
+							<div class="item">
+								<a href='https://www.audiokinetic.com/en/products/wwise'>
+								<img src='./wwise.png' alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/>
+								</a>
+								{/* <img src="img/svg/unity-logo-horiz.svg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/> */}
+								{/* <a href="#" class="full_link"></a> */}
+							</div>
+						</li>
+					</ul>
+					
+					{/* <ul>
 						<li>
 							<div class="item">
 								<img src="img/landing/playstore.png" alt="The Ninth Palace NFT Icon " title="The Ninth Palace "/>
@@ -85,7 +143,7 @@ function Investors() {
 								<a href="#" class="full_link"></a>
 							</div>
 						</li>
-					</ul>
+					</ul> */}
 				</div>
 				{/* <!-- !Investor List Shortcode --> */}
 				

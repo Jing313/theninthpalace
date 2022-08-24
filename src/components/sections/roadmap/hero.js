@@ -1,4 +1,5 @@
 import React from "react";
+import SPBg from "../../../assest/landing/imagechange.jpeg";
 
 function RoadmapHero() {
     return (
@@ -7,16 +8,17 @@ function RoadmapHero() {
     <div class="neoh_fn_pagetitle">
 			<div class="bg_overlay">
 				<div class="bg_color"></div>
-				<div class="bg_image" data-bg-img="img/landing/protocol-Bg.jpg"></div>
+				<div class="bg_image" data-bg-img={SPBg}></div>
+				{/* <div class="bg_image" data-bg-img="img/landing/protocol-Bg.jpg"></div> */}
 			</div>
 			<div class="pt_content">
 				<div class="container">
 					<h3 class="fn_title fn_animated_text" data-wait="1000" data-speed="8">Securus Protocol</h3>
-					<p class="fn_desc">
+					{/* <p class="fn_desc">
 						<a href="/">Home</a>
 						<span class="separator">/</span>
 						<span class="current">Securus Protocol</span>
-					</p>
+					</p> */}
 				</div>	
 			</div>
 		</div>

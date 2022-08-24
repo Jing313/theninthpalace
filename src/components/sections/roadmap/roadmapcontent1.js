@@ -1,6 +1,10 @@
 import React from "react";
-import BottomDivider from "../../bottomdivider";
-import Dividers from "../../divider";
+import Roadmap1 from "../../../assest/landing/roadmap1.webp";
+import Roadmap2 from "../../../assest/landing/roadmap2a.webp";
+import Roadmap3 from "../../../assest/landing/roadmap3a.webp";
+import Roadmap4 from "../../../assest/landing/roadmap4.webp";
+import Roadmap5 from "../../../assest/landing/roadmap5.webp";
+
 
 function RoadmapPage() {
     return (
@@ -13,46 +17,60 @@ function RoadmapPage() {
                 <li class="road_item">
                   <div class="t_item">
                     <div class="t_item_img">
-                      <div class="neoh_fn_gallery_1_2">
+                    <div class="img_item">
+                      <img src={Roadmap1} alt="The Ninth Palace NFT Icon " title="The Ninth Palace " />
+                      {/* <img src="img/landing/roadmap1.jpg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace " /> */}
+                    </div>
+                      {/*<div class="neoh_fn_gallery_1_2">
                         <div class="gallery_in">
                           <div class="item row2">
-                            <img src="img/landing/roadmap1.png" alt="The Ninth Palace NFT Icon " title="The Ninth Palace " />
+                            <img src="img/landing/roadmap1.jpg" alt="The Ninth Palace NFT Icon " title="The Ninth Palace " />
                           </div>
-                          {/* <div class="item">
+                           <div class="item">
                             <img src="img/landing/roadmap1b.png" alt="" />
                           </div>
                           <div class="item">
                             <img src="img/landing/roadmap1c.jpg" alt="" />
-                          </div> */}
+                          </div> 
                         </div>
-                      </div>
+                      </div>*/}
                     </div>
                     <div class="t_item_info">
                       <p class="fn_date">
-                        <span>June-September 2022</span>
+                        <span>August-September, 2022</span>
                       </p>
                       <h3 class="fn_title">
-                        Introduction. Explanation. Understanding.
+                        INTRO SECTION:
                       </h3>
                       <p class="fn_desc">
-                        Introducing the project to the world. Bringing the gaming & NFT communities together through Discord. Releasing the first 
-                        clue in "The Resistance Riddle." The pre-production phase for the PC game will end and production will begin. The avatars 
-                        will mint and the first "Safe House" will be opened. The mobile beta-testing list will open. Events 1 & 2.
                         <ul>
-                            <li>Grow the community; bridge to the gaming community through Discord.</li>
-                            <li>Release "The Resistance Riddle" to the community.
-                                <ul>
-                                    <li>
-                                        Winners of the contest will win free mint, whitelist spots, and physical art (Numbered/Signed)
-                                    </li>
-                                </ul>
+                            <li>
+                            Introduction. We begin building the bridge between the gaming community and the Web3 community. The website, social media accounts, and the Discord server will go online.                           </li>
+                            <li>
+                            Release the first “Resistance Riddle” to the community via social media. Winners of these contests will win Allow List slot/s, free mint/s, and/or numbered-signed physical art from the Illustrator.
                             </li>
-                            <li>Mint the Genesis Avatars - The Resistance Event.</li>
-                            <li>Move to the "Production" phase of the PC & Mobile games.</li>
-                            <li>Open the first Safe House to Genesis holders.</li>
-                            <li>Open the Mobile Beta-Testing List.</li>
-                            <li>The Global NFT Summit Live - London, England (7/22)</li>
-                            <li>Korea Blockchain Week - Seoul, South Korea (8/8)</li>
+                            {/* <li>Share the Virtual Waiting Room mint style with the community; Contract Audit.</li> */}
+                            <li>Mint the Resistance Avatars; Reveal</li>
+                            <li>Immediately after mint open SSO/Gamer Tag signup via website.</li>
+                            <li>Wrap Pre-Production. The Production phase of the PC/Mobile games will begin.</li>
+                            <li>Security/Permissions Audit of the entire project</li>
+                            <li>Tokenomics/GameFi Advisor audits the completed design of the ecosystem’s economy.</li>
+                            <li>
+                              NFT Show Europe - Valencia, Spain (9/17)
+                              <ul>
+                                <li>
+                                  Resistance Members: See “Events” on the Discord Server.
+                                </li>
+                              </ul>
+                            </li>
+                            <li>Token2049 - Singapore (9/28)
+                              <ul>
+                                <li>
+                                  Resistance Holders See “Events” on the Discord Server.
+                                </li>
+                              </ul>
+                            </li>
+                            
                         </ul>
                       </p>
                     </div>
@@ -61,44 +79,64 @@ function RoadmapPage() {
                 <li class="road_item">
                   <div class="t_item">
                     <div class="t_item_img">
-                      <div class="neoh_fn_gallery_1_2">
+                      <div class="img_item">
+                        <img src={Roadmap2} alt="The Ninth Palace Game Icon " title="The Ninth Palace Game " />
+                        {/* <img src="img/landing/roadmap2a.jpg" alt="The Ninth Palace Game Icon " title="The Ninth Palace Game " /> */}
+                      </div>
+                      {/*<div class="neoh_fn_gallery_1_2">
                         <div class="gallery_in">
                           <div class="item row2">
                             <img src="img/landing/roadmap2a.jpg" alt="The Ninth Palace Game Icon " title="The Ninth Palace Game " />
                           </div>
-                          {/* <div class="item">
+                           <div class="item">
                             <img src="img/landing/roadmap2b.jpg" alt="" />
                           </div>
                           <div class="item">
                             <img src="img/landing/roadmap2c.jpg" alt="" />
-                          </div> */}
+                          </div> 
                         </div>
-                      </div>
+                      </div>*/}
                     </div>
                     <div class="t_item_info">
                       <p class="fn_date">
-                        <span>October-December 2022</span>
+                        <span>October-December, 2022</span>
                       </p>
-                      <h3 class="fn_title">
+                      {/* <h3 class="fn_title">
                         Growth. Economics. Sustainability.
-                      </h3>
+                      </h3> */}
                       <p class="fn_desc">
-                        The avatar viewer and dApp are released. Holders and players will have a chance to familiarize themselves with the 
-                        environment; we will take suggestions, and be able to test effectively before the in-game deployment of a crucial piece of 
-                        the ecosystem. Genesis holders will receive the "Auxiliary" airdrop. The Resistance Economy White Paper is introduced; 
-                        voting ensues. Events 3 & 4. 
                         <ul>
-                            <li>dApp & avatar viewer are released.
-                                <ul>
-                                    <li>
-                                    An environment to level-up avatars, swap outfits/skins, and buy/sell/trade weapons, equipment, or tools to complete missions. 
-                                    </li>
-                                </ul>
+                          <li>
+                          Update the Nuclino for The Resistance Economy in full-detail.
+                          {/* Share the White Paper for the Resistance economy. */}
+                          </li>
+                            <li>
+                            dApp/Marketplace: Release “The Safe House” Beta version to Resistance members only
+                            {/* dApp/Marketplace: Release “The Safe House” Beta version to Resistance members only. */}
                             </li>
-                            <li>Auxiliary Airdrop to Genesis holders.</li>
-                            <li>Share the White Paper for The Resistance Economy. Open voting.</li>
-                            <li>NFT Show Europe - Valencia, Spain (9/17)</li>
-                            <li>Token2049 - Singapore (9/28)</li>
+                            <li>Auxiliary Airdrop: equipment/weapon airdrop to Resistance holders.</li>
+                            <li>Open the beta testing list for the mobile game to the community.</li>
+                            <li>Integrate the SSO backend design into dApp, Beta Testing, and finally, open it up to the community.</li>
+                            <li>
+                            Begin the A/B Testing and analytics across website/s, social media posts, etc. to provide data points for scale and growth.
+                              {/* Begin the A/B Testing and analytics across website/s, social media posts, etc. to provide data points for scale and growth.  */}
+                            </li>
+                            <li>
+                              Token2049 - London (11/9)
+                              <ul>
+                                <li>
+                                  Resistance Holders See “Events” on the Discord Server.
+                                </li>
+                              </ul>
+                            </li>
+                            <li>
+                            Art Basel - Miami, Florida, USA (11/30)
+                              <ul>
+                                <li>
+                                Resistance Holders See “Events” on the Discord Server.
+                                </li>
+                              </ul>
+                            </li>
                         </ul>
                       </p>
                     </div>
@@ -107,47 +145,66 @@ function RoadmapPage() {
                 <li class="road_item">
                   <div class="t_item">
                     <div class="t_item_img">
-                      <div class="neoh_fn_gallery_1_2">
+                      <div class="img_item">
+                        <img src='/newimagereplace.jpeg' alt="The Ninth Palace P2E Icon " title="The Ninth Palace Play to Earn " />
+                        {/* <img src="img/landing/roadmap3.png" alt="The Ninth Palace P2E Icon " title="The Ninth Palace Play to Earn " /> */}
+                      </div>
+                      {/*<div class="neoh_fn_gallery_1_2">
                         <div class="gallery_in">
                           <div class="item row2">
                             <img src="img/landing/roadmap3.png" alt="The Ninth Palace P2E Icon " title="The Ninth Palace Play to Earn " />
                           </div>
-                          {/* <div class="item">
+                           <div class="item">
                             <img src="img/landing/roadmap3b.jpg" alt="" />
                           </div>
                           <div class="item">
                             <img src="img/landing/comingsoon.jpg" alt="" />
-                          </div> */}
+                          </div> 
                         </div>
-                      </div>
+                      </div>*/}
                     </div>
                     <div class="t_item_info">
                       <p class="fn_date">
-                        <span>December-March 2023</span>
+                        <span>January-April, 2023</span>
                       </p>
                       <h3 class="fn_title">
                         Launch. Test. Upgrade.
                       </h3>
                       <p class="fn_desc">
-                        The Resistance Economy is launched. The $SIGNA token IDO; enables in-game & marketplace buying, selling, and trading of 
-                        assets. The mobile game-"The Ninth Palace: Hunted for Love"- a sub-set of the storyline for the PC game, is released. 
-                        The "ConnectOne" log-ins are introduced to coincide with the mobile game launch. The PC beta-testing list will open. 
-                        Event 5 & 6.
                         <ul>
-                            <li>Launch The Resistance Economy - $SIGNA IDO.</li>
-                            <li>Share the "ConnectOne" Design. Release it to the community.
-                                <ul>
-                                    <li>
-                                    Users can create an account, connect a Web3 wallet, and setup "sign-in once" or "Face-ID sign-in" instead of 
-                                    having to connect a Web3 wallet every single time they log-on to the PC or Mobile game. This is a 
-                                    cross-platform build. The backend simply displays the Web3 data to the players via their accounts. 
-                                    </li>
-                                </ul>
-                            </li>
-                            <li>Launch the Mobile game; Campaign & PvP Modes.</li>
-                            <li>Open the PC Beta-Testing list.</li>
-                            <li>Token2049 - London (11/9)</li>
-                            <li>Art Basel - Miami, Florida, USA (11/30)</li>
+                          <li>
+                          Release The Resistance Economy in two-stages.
+                          <ul>
+                            <li>SIGNA TGE</li>
+                            <li>AETHER TGE</li>
+                          </ul>
+                          </li>
+                          <li>
+                          dApp/Marketplace: Release “The Safe House” live version w/ full avatar, token, and asset marketplace.
+                            {/* dApp/Marketplace Development: Release “The Safe House” - an environment to level-up avatars, 
+                            swap outfits/skins, and buy/sell/trade weapons, equipment, or tools to complete missions - live version. */}
+                          </li>
+                          {/* <li>Release The Resistance Economy ($SIGNA)</li> */}
+                          <li>Integrate/Test SS0/Gamer Tag into mobile game</li>
+                          <li>Beta Test the entire dynamic ecosystem together for mobile.</li>
+                          <li>Launch the mobile game; Campaign Mode. (The Ninth Place: Hunted for Love)</li>
+                          <li>Security/Permissions Audit of the entire project.</li>
+                          <li>
+                            NFT Paris - Paris, France (2/24-25)
+                            <ul>
+                              <li>
+                                Resistance Holders See “Events” on the Discord Server.
+                              </li>
+                            </ul>
+                          </li>
+                          <li>
+                            Miami NFT Week - Miami, Florida (3/31-4/2)
+                            <ul>
+                              <li>
+                                Resistance Holders See “Events” on the Discord Server.
+                              </li>
+                            </ul>
+                          </li>
                         </ul>
                       </p>
                       
@@ -157,35 +214,43 @@ function RoadmapPage() {
                 <li class="road_item">
                   <div class="t_item">
                     <div class="t_item_img">
-                      <div class="neoh_fn_gallery_1_2">
+                      <div class="img_item">
+                        <img src={Roadmap4} alt="The Ninth Palace Game Icon " title="The Ninth Palace Game " />
+                        {/* <img src="img/landing/roadmap4.jpg" alt="The Ninth Palace Game Icon " title="The Ninth Palace Game " /> */}
+                      </div>
+                      {/*<div class="neoh_fn_gallery_1_2">
                         <div class="gallery_in">
                           <div class="item row2">
                             <img src="img/landing/roadmap4.jpg" alt="The Ninth Palace Game Icon " title="The Ninth Palace Game " />
                           </div>
-                          {/* <div class="item">
+                           <div class="item">
                             <img src="img/landing/comingsoon.jpg" alt="" />
                           </div>
                           <div class="item">
                             <img src="img/landing/comingsoon.jpg" alt="" />
-                          </div> */}
+                          </div> 
                         </div>
-                      </div>
+                      </div>*/}
                     </div>
                     <div class="t_item_info">
                       <p class="fn_date">
-                        <span>March-May 2023</span>
+                        <span>May-August, 2023</span>
                       </p>
                       <h3 class="fn_title">
                         Level Up. Consolidate. Prepare.
                       </h3>
                       <p class="fn_desc">
-                        The team gears up for the PC game launch. There will be changes; security checks, and audits; testing will be done to 
-                        ensure a smooth operating environment at scale; the "ConnectOne" system will undergo UI/UX/, A/B testing, and traffic 
-                        testing. There will be an exclusive merchandise drop w/ Collaborators of the Resistance, which is marked Top Secret.
                         <ul>
-                            <li>Prepare for the PC game launch.</li>
-                            <li>Secure the Ecosystem; Test the UI/UX, run A/B Testing, and Test for scaleability.</li>
-                            <li>Exclusive Merchandise Drop w/ Collaborators of the Resistance.</li>
+                            <li>Release PvP & Faction Mode on mobile.</li>
+                            <li>Open the beta testing list for the PC game to the community.</li>
+                            <li>A/B test the designs for asset creation methods across the Resistance holders and a selection of professional gamers.</li>
+                            {/* <li>
+                              Introduce $SIGNA buying, selling, and trading of in-game assets in The Safe House. 
+                              Beta test community-driven creation of in-game assets for submission, approval, and sale.
+                            </li> */}
+                            <li>Beta test community-driven creation of in-game assets for submission, approval,trade, and sale.</li>
+                            <li>Offering the first meta-subscription model for testing and analytics.</li>
+                            <li>Ensure cross-platform transitioning is smooth, frictionless, and accurately carried through wallets/accounts and The Safe House.</li>
                         </ul>
                       </p>
                     </div>
@@ -194,37 +259,40 @@ function RoadmapPage() {
                 <li class="road_item">
                   <div class="t_item">
                     <div class="t_item_img">
-                      <div class="neoh_fn_gallery_1_2">
+                      <div class="img_item">
+                        <img src={Roadmap5} alt="The Ninth Palace P2E Icon " title="The Ninth Palace Play to Earn " />
+                        {/* <img src="img/landing/roadmap5.png" alt="The Ninth Palace P2E Icon " title="The Ninth Palace Play to Earn " /> */}
+                      </div>
+                      {/*<div class="neoh_fn_gallery_1_2">
                         <div class="gallery_in">
                           <div class="item row2">
                             <img src="img/landing/roadmap5.png" alt="The Ninth Palace P2E Icon " title="The Ninth Palace Play to Earn " />
                           </div>
-                          {/* <div class="item">
+                           <div class="item">
                             <img src="img/landing/comingsoon.jpg" alt="" />
                           </div>
                           <div class="item">
                             <img src="img/landing/comingsoon.jpg" alt="" />
-                          </div> */}
+                          </div> 
                         </div>
-                      </div>
+                      </div>*/}
                     </div>
                     <div class="t_item_info">
                       <p class="fn_date">
-                        <span>June-August 2023</span>
+                        <span>September-December, 2023</span>
                       </p>
                       <h3 class="fn_title">
                         Launch. Secure. Market. Scale.
                       </h3>
                       <p class="fn_desc">
-                        The PC game launches. Integration with Flamestore. The $SIGNA token will become the official store of value within the 
-                        ecosystem. The marketplace will launch and players will be able to submit assets to the Asset Approval Team. All asset 
-                        royalties will belong to the creator. A massive marketing campaign begins. The "Web3 x Gaming Incubator" is introduced to 
-                        the world. 
                         <ul>
-                            <li>Launch The Ninth Palace for PC; Campaign & PvP Modes.</li>
-                            <li>$SIGNA becomes the only token accepted in the marketplace, earned through campaign play, or from players.</li>
-                            <li>Launch Incubator for Web3 game developers/companies that need support or a network.</li>
-                            <li>Massive Marketing Campaign - Global, Animated, and Year-Round. </li>
+                            <li>Launch The Ninth Palace for PC; Campaign.</li>
+                            {/* <li>Introduce the $SIGNA Swap in-game and on the web for immediate, gasless swaps between the $SIGNA token and a pool of stablecoins.</li> */}
+                            <li>Introduce the “Waiting Room” in The Safe House for pre-play live assets swaps, strategy meetings, faction planning.</li>
+                            <li>Security/Permissions Audit of the entire project.</li>
+                            <li>A massive marketing campaign will begin once the kinks are ironed out of the gameplay, economy, and onboarding procedure.</li>
+                            <li>Launch The Ninth Palace for PC; Faction Play; Tournament Play.</li>
+                            <li>Scale.</li>
                         </ul>
                       </p>
                     </div>

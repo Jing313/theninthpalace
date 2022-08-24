@@ -31,30 +31,38 @@ function NormalContent() {
               </div> */}
               <div class="single_title">
                 <h2 class="fn_title">
-                    Growth. Economics. Sustainability.
+                Organize. Design. Develop. Test. Release.
                 </h2>
-                <div class="categories">
-                  <a href="#">Game</a>, <a href="#">NFTs</a>,<a href="#">Tokens</a>
-                </div>
+                {/* <div class="categories">
+                  <p>Game, NFTs, Tokens</p>
+                </div> */}
               </div>
               {/* <!-- !Single Title --> */}
 
               {/* <!-- Single Description --> */}
               <div class="single_desc">
                 <p class="fn_desc">
-                    Please, understand that the following is subject to change. This document is meant to lead the Resistance, but it is not a definitive 
-                    list of what we must do to flourish. The timing and order of these items can change as we scale. We've created this Securus Protocol with three
-                    primary goals in mind.
+                Please understand that the following is subject to change. This document is meant to lead The Resistance, but it is not a definitive list of what we must do to flourish. The timing and order of these items can change as we scale. Development in our industry is fluid and game design documents, roadmaps, or business plans are used more as guides than strict sets of rules.
+                </p>
+                <p class="fn_desc">
+                Any delays in the development, design, or implementation of the following will be communicated to the community as early as possible.
+                </p>
+                <p class="fn_desc">
+                We've created this Roadmap with three primary goals in mind.
+                </p>
+                <p class="fn_desc">
                     <ul>
-                        <li>Launch The Ninth Palace for PC; Campaign & PvP Modes.</li>
-                        <li>Launch Incubator for Web3 game developers/companies.</li>
-                        <li>Massive Marketing Campaign - Global, Animated, and Year-Round.</li>
+                        <li>
+                        Build a AAA-quality P2E game that is fun. Our primary goal is to ensure that our community enjoys game play and becomes invested in the storyline.
+                        </li>
+                        <li>
+                        Create a game economy that is sustainable over time and ensure that ownership of assets lies with the community, not the publisher or the development team.
+                        </li>
+                        <li>
+                        Onboard traditional gamers into Web3 gaming ecosystems and change the way gamers earn through eSports.
+                        </li>
                     </ul>
-                    Having said that, we are building in a fluid environment, and that means we need to be flexible and able to adjust in order to 
-                    survive. This document was created to help us - the core team - focus, and to give holders an idea of what we intend to do. The 
-                    Establishment told us that what we were doing was inconceivable. Then, they told us that what we’ve shown them was going to fail 
-                    when “inconceivable” was no longer applicable. Now, they’re telling us they’ll never let us use their marketplace to release the 
-                    game build. We will continue to hurdle.
+                    Finally, great game design and/or development takes time. However, this doesn’t mean wasteful spending or endless delays with no apparent reason. Technical updates will be shared regularly via Nuclino; creative updates will be shared via Medium and/or our social media accounts.
                 </p>
               </div>
               {/* <!-- !Single Description --> */}
